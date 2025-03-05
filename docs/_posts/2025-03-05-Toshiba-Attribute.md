@@ -1,5 +1,6 @@
 ---
-title: Toshiba Attribute
+title: "Toshiba Attribute"
+date: 2025-03-05
 layout: page
 ---
 ## Printers TDX Update

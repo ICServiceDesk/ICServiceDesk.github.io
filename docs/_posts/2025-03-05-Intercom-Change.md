@@ -1,5 +1,6 @@
 ---
-title: 03-05-25
+title: "Intercom Changes"
+date: 03-05-25
 layout: page
 ---
 ## Intercom changes
