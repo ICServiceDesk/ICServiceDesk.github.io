@@ -1,10 +1,9 @@
 # Intercom changes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis pulvinar luctus bibendum fringilla magnis conubia blandit metus mi bibendum convallis litora. Orci eleifend conubia vel dictumst euismod ullamcorper auctor id rutrum cubilia neque mus.
-Parturient imperdiet nullam imperdiet sed pharetra nunc cubilia proin himenaeos pretium condimentum hac. Lorem urna commodo mauris cum eros phasellus dictum turpis torquent fermentum phasellus sagittis. Ornare mattis taciti aptent sit laoreet quam lectus penatibus urna condimentum sagittis lacus.
+## Intercom will now be behind a login screen. Only current students, faculty, staff, and affiliates will be able to view it. Retirees will as well, but not alumni.
 
-# Toshiba Printers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pulvinar leo faucibus tincidunt eros vivamus netus cum dignissim leo sed natoque. Et per proin aliquet lorem venenatis luctus quam ad metus magna lacinia. Aliquet litora ridiculus vitae himenaeos per lacinia fermentum magnis id lorem dignissim. Elit habitasse urna nisi nascetur nunc ipsum iaculis elit orci venenatis tempus.
-## What changes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pulvinar leo faucibus tincidunt eros vivamus netus cum dignissim leo sed natoque. Et per proin aliquet lorem venenatis luctus quam ad metus magna lacinia. Aliquet litora ridiculus vitae himenaeos per lacinia fermentum magnis id lorem dignissim. Elit habitasse urna nisi nascetur nunc ipsum iaculis elit orci venenatis tempus.
-### Third thing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pulvinar leo faucibus tincidunt eros vivamus netus cum dignissim leo sed natoque. Et per proin aliquet lorem venenatis luctus quam ad metus magna lacinia. Aliquet litora ridiculus vitae himenaeos per lacinia fermentum magnis id lorem dignissim. Elit habitasse urna nisi nascetur nunc ipsum iaculis elit orci venenatis tempus.
+# Printers TDX Update
+## There is a new attribute in TDX to see if a printer is covered under Toshiba's warranty! See if you can find it
+
+# Is your name Garen, Ethann, Zara, Hadil, Jake, Connor, Faith, or Henry? If so...you've been pinged.
+
+# Is this an effective way to communicate to you?
