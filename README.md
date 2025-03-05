@@ -1,5 +1,3 @@
-# signage-announcement
-
 # Intercom changes
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis pulvinar luctus bibendum fringilla magnis conubia blandit metus mi bibendum convallis litora. Orci eleifend conubia vel dictumst euismod ullamcorper auctor id rutrum cubilia neque mus.
 Parturient imperdiet nullam imperdiet sed pharetra nunc cubilia proin himenaeos pretium condimentum hac. Lorem urna commodo mauris cum eros phasellus dictum turpis torquent fermentum phasellus sagittis. Ornare mattis taciti aptent sit laoreet quam lectus penatibus urna condimentum sagittis lacus.
