@@ -5,6 +5,6 @@ This exists to put an RSS feed in the TDX desktop or use the static pages on dig
 ---
 layout: {post, page, home, base}
 title: "Your title"
-date: YYYY-MM-DD HH:MM:SS
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
 ---
 ```
