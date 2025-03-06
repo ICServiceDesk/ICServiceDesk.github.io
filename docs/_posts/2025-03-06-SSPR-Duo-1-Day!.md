@@ -1,6 +1,6 @@
 ---
 title: "Duo and SSPR response changes!"
-date: 2025-03-06 09:02:00
+date: 2025-03-06 09:02:00 -0500
 layout: post
 ---
 # 1 day response window
