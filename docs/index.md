@@ -2,12 +2,6 @@
 layout: home
 title: SD Updates
 ---
-## Intercom changes
-Intercom will now be behind a login screen. Only current students, faculty, staff, and affiliates will be able to view it. Retirees will as well, but not alumni.
-
-## Printers TDX Update
-There is a new attribute in TDX to see if a printer is covered under Toshiba's warranty! See if you can find it
-
-## Is your name Garen, Ethann, Hadil, Jake, Connor, Faith, or Henry? If so...you've been pinged.
-
-## Is this an effective way to communicate to you?
+# Welcome!
+## SD Updates
+Welcome to the Service Desk News Hub! We're thrilled to have you here, IT student workers. This is your go-to spot for all the latest updates, tips, and insights straight from the heart of our Service Desk. Whether you're troubleshooting tech issues, learning new skills, or just staying in the loop, we've got you covered. So sit back, explore, and let's make IT support even more awesome together! 
