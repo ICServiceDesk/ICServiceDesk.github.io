@@ -8,3 +8,5 @@ title: "Your title"
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 ---
 ```
+
+This box is called the [Front Matter](https://jekyllrb.com/docs/front-matter/) and determines how the page is reflected on the published site/feed.
