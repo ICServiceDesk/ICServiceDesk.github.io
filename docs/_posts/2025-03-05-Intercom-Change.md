@@ -5,9 +5,3 @@ layout: page
 ---
 ## Intercom changes
 Intercom will now be behind a login screen. Only current students, faculty, staff, and affiliates will be able to view it. Retirees will as well, but not alumni. Review the Intercom article in the Teams General chat for more info
-
-
-
-## Is your name Garen, Ethann, Hadil, Jake, Connor, Faith, or Henry? If so...you've been pinged.
-
-## Is this an effective way to communicate to you?
