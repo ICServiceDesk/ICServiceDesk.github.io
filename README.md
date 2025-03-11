@@ -10,3 +10,5 @@ date: YYYY-MM-DD HH:MM:SS +/-TTTT
 ```
 
 This box is called the [Front Matter](https://jekyllrb.com/docs/front-matter/) and determines how the page is reflected on the published site/feed.
+
+For important or perennial news/information you can create a permalink in the Front Matter so that the site generates a static page and permanent link to that. That looks like this `permalink: /yourpage`
