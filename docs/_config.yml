@@ -28,6 +28,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include:
+  - "_img"
+
+BASE_PATH: /docs
+
 defaults:
   -
     scope:
