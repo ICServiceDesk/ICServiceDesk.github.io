@@ -6,6 +6,6 @@ permalink: /break
 ---
 # Spring Break!
 Happy Spring break to you and you. Please make sure you have referenced the schedule for the week:
-![spring break](/docs/_img/spbreak25.png)
+![spring break](https://icservicedesk.github.io/docs/_img/spbreak25.png)
 
 _If you need to make changes, reach out soon!_
