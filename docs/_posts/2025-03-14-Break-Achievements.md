@@ -4,7 +4,7 @@ layout: post
 date: 2025-03-14
 ---
 # Welcome back!
-I hope you all had a restful break. While most of you were sleeping till noon and ignoring your parent's subtle pleas to cook _them_ a dinner for once, some enterprising and ambitious students were hard at work at the Service Desk accomploshing more than I really thought we could!
+I hope you all had a restful break. While most of you were sleeping till noon and ignoring your parent's subtle pleas to cook _them_ a dinner for once, some enterprising and ambitious students were hard at work at the Service Desk accomplishing more than I really thought we could!
 
 ## TDX Beautification
 What words come to mind when I say "Teamdynamix"? Boring? Drab? Mundane? Prosaic? Banal? Well, no more!
@@ -17,5 +17,5 @@ Please thank them when you see them. They have truly left an indelible mark on I
 Josh, also, was fastened to the desk and furiously typing, brow firmly furrowed. He forged new forms most fondly. Fair, my fellow to figure for what this form facilitates. Forsooth, fathom no further. For he has faceted field after field to fabricate a form most fabled. Find this form, friend, festooned [here]. Frankly, I'm fully flabbergasted at his fortitude. He fights with a fiery furor that flumoxes me as he makes, in fact, fifteen fifty. Thanks F'Josh!
 
 ## Pictures!
-![](https://github.com/ICServiceDesk/ICServiceDesk.github.io/blob/main/assets/img/tdxiconscolor.png)
-![](https://github.com/ICServiceDesk/ICServiceDesk.github.io/tree/ae268d726f6d1a5ae8ff73ff48cf19c45a406fe7/assets/imgtdxbuttonscolor.png)
+![]({{ site.rooturl }}assets/img/tdxiconscolor.png)
+![]({{ site.rooturl }}assets/img/tdxbuttonscolor.png)
