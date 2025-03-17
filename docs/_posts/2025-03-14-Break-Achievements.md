@@ -17,5 +17,5 @@ Please thank them when you see them. They have truly left an indelible mark on I
 Josh, also, was fastened to the desk and furiously typing, brow firmly furrowed. He forged new forms most fondly. Fair, my fellow to figure for what this form facilitates. Forsooth, fathom no further. For he has faceted field after field to fabricate a form most fabled. Find this form, friend, festooned [here]. Frankly, I'm fully flabbergasted at his fortitude. He fights with a fiery furor that flumoxes me as he makes, in fact, fifteen fifty. Thanks F'Josh!
 
 ## Pictures!
-![buttons](../../../img/tdxbuttonscolor.png)
-![icons](../../../img/tdxiconscolor.png)
+![buttons](/img/tdxbuttonscolor.png)
+![icons](/img/tdxiconscolor.png)
