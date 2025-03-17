@@ -20,7 +20,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://icservicedesk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-rooturl: "https://github.com/ICServiceDesk/ICServiceDesk.github.io/blob/b052b8de358d0b11917644e08769a1e843b9e2bc/"
 # Build settings
 markdown: kramdown
 theme: minima
