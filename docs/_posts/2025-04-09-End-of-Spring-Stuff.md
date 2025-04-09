@@ -1,5 +1,5 @@
 ---
-title: *NEW* April reminders!
+title: NEW April reminders!
 layout: post
 date: 2025-03-14
 ---
