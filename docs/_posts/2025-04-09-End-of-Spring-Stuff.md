@@ -26,3 +26,7 @@ Gamers, please please make sure that we are returning things in Smarthub. There 
 
 # Fourth, and final
 ## 🚕 Please refer to the previous desk announcement about new student registration. Some of you definitely have not looked at that file I linked. 
+
+### Why not read this short blog post? 
+We can argue about it next shift if you want...
+[Here ya go](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
