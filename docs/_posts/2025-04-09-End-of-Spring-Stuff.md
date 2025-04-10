@@ -2,7 +2,6 @@
 title: April reminders!
 layout: post
 date: 2025-04-09
-date: 2025-04-09
 ---
 
 Everyone! Isn't this RSS feed nifty?
