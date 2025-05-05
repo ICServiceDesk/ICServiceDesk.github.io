@@ -6,7 +6,7 @@ date: 2025-05-05
 
 # Prologue
 Howdy, friends 🤠
-I'm so proud of your work these last two semesters. One of the joys of my job is to watch you grow and succeed. I know it seems trvial or anodyne work that anyone could do. But I don't see it that way. You all achieve so much and are, in my eyes, building a solid foundation for your careers in the future.
+I'm so proud of your work these last two semesters. One of the joys of my job is to watch you grow and succeed. I know it seems trvial or prosaic work that anyone could do. But I don't see it that way. You all achieve so much and are, in my eyes, building a solid foundation for your careers in the future.
 
 # Goodbye, I guess.
 Seniors, congratulations and I wish you all the best. I have no doubt that all of you will succeed and thrive. SD grads have a practically 100% job placement rate out of school. Worst case, you have IT has a fallback. You are a valuable asset now. You are graduating with a degree _and_ a technology toolbox. How many of your friends and peers have that same level of technicality. If you ever need recommendations, advice, or reassurance, reach out. Both Donavan and I are here to help you guys. If you want my phone number or anything to keep in touch, I'd be happy to give it to you. I'm also on Telegram and Matrix.
