@@ -23,7 +23,7 @@ The laptops are almost universally due May 14th by 5pm. This is the day after fi
 
 Please be very cognizant of what you are doing. Messing this up could literally cost students. Make sure to be diligent!
 
-David, JAke, Ikrom, Hadil, Hermela, Joshua, and Garen. Take special note of the above. You all are working that day and will be handling all of this. Think of and devise some strategies in order to make that all come together.
+David, Jake, Ikrom, Hadil, Hermela, Joshua, and Garen. Take special note of the above. You all are working that day and will be handling all of this. Think of and devise some strategies in order to make that all come together.
 
 ## Are ya winning, son?
 The Superlatives are out! Look here: [WOW!](https://media.ithaca.edu/media/Spring+25+SD+Awards7secs/1_fz7cudkj)
