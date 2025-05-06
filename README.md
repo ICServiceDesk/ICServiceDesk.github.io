@@ -65,3 +65,8 @@ To test your changes locally:
 ## Deployment
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
+## Good reading
+https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/ 
+https://docs.github.com/en/pages 
+

@@ -36,6 +36,8 @@ I have your prizes if you got one. Watch the vid and stop by :)
 ### Required Reading
 [I'd Rather Read the Prompt](https://claytonwramsey.com/blog/prompt/)
 
+[Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
+
 [Just a silly story I felt you guys would identify with](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 
 I would love for you to read these and talk to me about how you feel. Get a "vibe check", you know? Especially the first one.
